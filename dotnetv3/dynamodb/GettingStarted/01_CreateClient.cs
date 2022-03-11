@@ -11,7 +11,7 @@ namespace GettingStarted
     {
         /*-----------------------------------------------------------------------------------
          *  If you are creating a client for the Amazon DynamoDB service, make sure your credentials
-         *  are set up first, as explained in:
+         *  are set up first, as explained in: 
          *  https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/SettingUp.DynamoWebService.html,
          *
          *  If you are creating a client for DynamoDBLocal (for testing purposes),
